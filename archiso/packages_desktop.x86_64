@@ -36,10 +36,13 @@ i3status
 i3lock
 rofi
 picom
+lxappearance
 
 # File manager
 thunar
 thunar-volman
+thunar-archive-plugin
+thunar-media-tags-plugin
 gvfs
 
 # Sound
@@ -83,6 +86,9 @@ wget
 curl
 fakeroot
 systemd-resolvconf
+brave-bin
+telegram-desktop
+vlc
 
 # Fonts
 noto-fonts
