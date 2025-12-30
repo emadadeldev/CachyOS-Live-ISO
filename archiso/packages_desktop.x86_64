@@ -10,7 +10,6 @@ sudo
 nano
 vim
 bash-completion
-less
 
 # Microcode
 intel-ucode
@@ -82,13 +81,13 @@ cachyos-cli-installer-new
 
 # Utilities
 git
-wget
 curl
 fakeroot
 systemd-resolvconf
 brave-bin
 telegram-desktop
 vlc
+python
 
 # Fonts
 noto-fonts
@@ -97,3 +96,4 @@ ttf-bitstream-vera
 ttf-dejavu
 ttf-liberation
 ttf-opensans
+ttf-jetbrains-mono-nerd
